@@ -1,0 +1,24 @@
+{
+  "杭州": [
+    { "name": "西湖断桥", "type": "attraction", "tags": ["湖景", "地标"], "ticket": 0, "hours": 1.5, "area": "西湖", "rating": 4.7 },
+    { "name": "雷峰塔", "type": "attraction", "tags": ["古迹", "城市景观"], "ticket": 40, "hours": 1.5, "area": "西湖南线", "rating": 4.5 },
+    { "name": "灵隐寺", "type": "attraction", "tags": ["古刹", "人文"], "ticket": 75, "hours": 2.5, "area": "灵隐", "rating": 4.6 },
+    { "name": "九溪烟树", "type": "attraction", "tags": ["徒步", "自然"], "ticket": 20, "hours": 2, "area": "九溪", "rating": 4.4 },
+    { "name": "西溪湿地", "type": "attraction", "tags": ["湿地", "摇橹船"], "ticket": 80, "hours": 3, "area": "西溪", "rating": 4.5 },
+    { "name": "中国美院象山校区", "type": "attraction", "tags": ["建筑", "文艺"], "ticket": 0, "hours": 2, "area": "转塘", "rating": 4.3 },
+    { "name": "河坊街", "type": "attraction", "tags": ["美食", "老街"], "ticket": 0, "hours": 2, "area": "上城", "rating": 4.2 }
+  ],
+  "北京": [
+    { "name": "故宫博物院", "type": "attraction", "tags": ["古建", "博物馆"], "ticket": 60, "hours": 4, "area": "东城", "rating": 4.9 },
+    { "name": "天坛公园", "type": "attraction", "tags": ["古建", "公园"], "ticket": 35, "hours": 2, "area": "东城", "rating": 4.6 },
+    { "name": "颐和园", "type": "attraction", "tags": ["园林", "湖景"], "ticket": 30, "hours": 3, "area": "海淀", "rating": 4.7 },
+    { "name": "798 艺术区", "type": "attraction", "tags": ["艺术", "展览"], "ticket": 0, "hours": 2.5, "area": "朝阳", "rating": 4.3 },
+    { "name": "南锣鼓巷", "type": "attraction", "tags": ["美食", "胡同"], "ticket": 0, "hours": 2, "area": "东城", "rating": 4.1 }
+  ],
+  "成都": [
+    { "name": "都江堰", "type": "attraction", "tags": ["水利", "古迹"], "ticket": 80, "hours": 3.5, "area": "都江堰", "rating": 4.6 },
+    { "name": "武侯祠", "type": "attraction", "tags": ["三国", "人文"], "ticket": 50, "hours": 2, "area": "武侯", "rating": 4.4 },
+    { "name": "大熊猫繁育研究基地", "type": "attraction", "tags": ["动物", "亲子"], "ticket": 55, "hours": 3, "area": "成华", "rating": 4.8 },
+    { "name": "宽窄巷子", "type": "attraction", "tags": ["美食", "老街"], "ticket": 0, "hours": 2, "area": "青羊", "rating": 4.2 }
+  ]
+}
